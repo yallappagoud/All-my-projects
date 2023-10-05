@@ -1,2 +1,3 @@
 # All-my-projects
-my repository
+My repository
+Author-Yallappagoud B Shanwd
