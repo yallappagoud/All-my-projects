@@ -1,3 +1,3 @@
-# All-my-projects
+# My-projects
 My repository <br>
 Author-Yallappagoud B Shanwd
